@@ -2,12 +2,17 @@
 
 /*Styles of tags*/
 html {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 
 /*Styles of classes*/
-
+.why {
+  background-color: lavender;
+}
 
 
 /*Styles of id's*/
+#no {
+  background-color: black;
+}
